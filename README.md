@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Kathy :)
 
 ## About Me
 - 🔭 I’m currently working on learning Git and version control
