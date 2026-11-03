@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
-
+## About Me
 - 🔭 I’m currently working on learning Git and version control
 - 🌱 I’m currently learning cloud computing, networking.
 - 📫 How to reach me: kathyyuan2@gmail.com
